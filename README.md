@@ -28,6 +28,8 @@ npm start
 
 Para usar o Site de suporte, siga estas etapas:
 >Após a instalação das dependêcias você pode navegar até o endereço LOCALHOST:3000:
+>
+>[Link para o Vídeo](./resumo.mp4)
 
 
 ## 🤝 Colaboradores
