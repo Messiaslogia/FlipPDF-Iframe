@@ -1,7 +1,7 @@
 # Site de suporte para produtos diversos
 
 
-<img src="./iframeShot.png" alt="Exemplo imagem" width="700" height="300"> 
+<img src="./iframeShot.png" alt="Exemplo imagem" width="700" height="700"> 
 > Site de suporte para produtos diversos:
 > O site tem como objetivo fornecer uma interface intuitiva para empresas que necessitem de um suporte para seus produtos. Assim fornecendo o melhor apoio para seus clientes
 
