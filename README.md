@@ -1,9 +1,9 @@
-# Site de suporte para produtos diversos
+# Gerador de FlipEbooks para PDFS
 
 
-<img src="./iframeShot.png" alt="Exemplo imagem" width="300" height="300"> 
-> Site de suporte para produtos diversos:
-> O site tem como objetivo fornecer uma interface intuitiva para empresas que necessitem de um suporte para seus produtos. Assim fornecendo o melhor apoio para seus clientes
+<img src="./iframeShot.png" alt="Exemplo imagem" width="800" height="500"> 
+Gerador de FlipEbooks para PDFS:
+> O site tem como objetivo Transformar Pdfs padroes em uma visualização em revista. A pessoa upando um arquivo pdf estara transformando ele em uma visualização em formato revista usando a biblioteca JavaScript DFlip. Caso a pessoa queira usar esse pdf em um layout o site gera um iframe compartilhado aonde através do link ela pode ter acesso a esse pdf já modificado. 
 
 ## 💻 Pré-requisitos
 
@@ -14,17 +14,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
   
 ## 🚀 Instalando Site de suporte
 
-Para instalar o Site de suporte, siga estas etapas:
+Para instalar o Gerador, siga estas etapas:
 
 > Abra o terminal no diretório raiz do projeto e digite:
 ```
 npm i
 ```
-> Após a instalação das dependências importe o o arquivo `suporte.sql` para dentro do seu banco de dados.
-
-> Acesse o arquivos `ConfiguracaoDatabase.js` e mude os campos:
-> `Host, user, password e database` Coloque os dados de seu banco de dados
-
 ```
 npm start
 ```
@@ -32,13 +27,8 @@ npm start
 ## ☕ Usando Site de suporte
 
 Para usar o Site de suporte, siga estas etapas:
->Após a instalação das dependêcias você pode configurar os produtos para seu suporte:
->Modifique os campos do banco de dados:
+>Após a instalação das dependêcias você pode navegar até o endereço LOCALHOST:3000:
 
-<img src="./assets/img/banco.PNG" alt="Exemplo imagem" width="300" height="80">
-
->Não se esqueça de acionar novas rotas e controllers para os novos produtos
-<img src="./assets/img/Routes.PNG" alt="Exemplo imagem" width="300" height="80">
 
 ## 🤝 Colaboradores
 
