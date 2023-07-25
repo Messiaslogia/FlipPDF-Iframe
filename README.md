@@ -30,6 +30,11 @@ Para usar o Site de suporte, siga estas etapas:
 >Após a instalação das dependêcias você pode navegar até o endereço LOCALHOST:3000:
 >
 >[Como utilizar](./Resumo.mp4)
+>
+>Os Pdfs ficam salvos dentro do diretorio:
+```
+./views/uploads
+```
 
 
 ## 🤝 Colaboradores
@@ -40,7 +45,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/Messiaslogia">
-        <img src="./assets/img/perfil.jfif" width="100px;" alt=""/><br>
+        <img src="./perfil.jfif" width="100px;" alt=""/><br>
         <sub>
           <b>Messias G</b>
         </sub>
