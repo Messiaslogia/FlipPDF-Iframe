@@ -2,7 +2,7 @@
 
 
 <img src="./iframeShot.png" alt="Exemplo imagem" width="800" height="500"> 
-Gerador de FlipEbooks para PDFS:
+Gerador de FlipEbooks para Pdfs:
 > O site tem como objetivo Transformar Pdfs padroes em uma visualização em revista. A pessoa upando um arquivo pdf estara transformando ele em uma visualização em formato revista usando a biblioteca JavaScript DFlip. Caso a pessoa queira usar esse pdf em um layout o site gera um iframe compartilhado aonde através do link ela pode ter acesso a esse pdf já modificado. 
 
 ## 💻 Pré-requisitos
